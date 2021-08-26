@@ -1,0 +1,22 @@
+nav{
+    background-color: cadetblue;
+    height:50px;
+}
+nav ul{
+    float:right;
+}
+nav ul li{
+    display:inline-block;
+    list-style: none; 
+    margin-left: 40px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav img{
+    height:30px;
+    width:50px;
+    margin-top: 8px;
+    margin-left: 5px;
+    border-radius: 5px;
+}

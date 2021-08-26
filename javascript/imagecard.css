@@ -1,0 +1,21 @@
+.side img{
+    width:150px;
+    height:150px;
+}
+.para{
+    width: 80px;
+    text-align:center ;
+    
+}
+*{
+    color:mediumorchid;
+}
+.side{
+    display: inline-block;
+    margin-left: 40px;
+    
+}
+.side p{
+    text-align: center;
+    margin-left:35px;
+}
